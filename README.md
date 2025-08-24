@@ -1,2 +1,2 @@
 # repo-practica
-Práctica GitHub
+Práctica GitHub para el curso de Github
